@@ -1,0 +1,56 @@
+[
+    {
+      "itemCode": "1111",
+      "itemName": "Chocolate Truffle Cake",
+      "description": "Delishious Chocolate Truffle Cake",
+      "cost": 179.00,
+      "discount": 40,
+      "rating": 4,
+      "imageUrl": "images/chocolate_truffle_cake_700_400.png"
+    },
+    {
+      "itemCode": "2222",
+      "itemName": "Strawberry Heart shaped Cake",
+      "description": "Delishious Strawberry Heart shaped Cake",
+      "cost": 149.00,
+      "discount": 70,
+      "rating": 3,
+      "imageUrl": "images/strawberry_heart_shape_cake_700_400.png"
+    },
+    {
+      "itemCode": "3333",
+      "itemName": "Mixed Fruit Cake",
+      "description": "Delishious Mixed Fruit Cake",
+      "cost": 149.00,
+      "discount": 33,
+      "rating": 4,
+      "imageUrl": "images/Mixed_Fruit_Cake_700_400.png"
+    },
+    {
+      "itemCode": "4444",
+      "itemName": "Original Brownie Cake",
+      "description": "Delishious Brownie Cake",
+      "cost": 59.00,
+      "discount": 10,
+      "rating": 5,
+      "imageUrl": "images/cake3_700_400.png"
+    },
+    {
+      "itemCode": "5555",
+      "itemName": "Black Forest Cake",
+      "description": "Delishious Black Forest Cake",
+      "cost": 99.00,
+      "discount": 20,
+      "rating": 5,
+      "imageUrl": "images/black_forest_700_400.png"
+    },
+    {
+      "itemCode": "6666",
+      "itemName": "DJ Cake",
+      "description": "Delishious DJ Cake",
+      "cost": 59.00,
+      "discount": 28,
+      "rating": 4,
+      "imageUrl": "images/djCake_700_400.png"
+    }
+  ]
