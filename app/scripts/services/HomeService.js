@@ -8,7 +8,7 @@ angular.module('myShopApp')
            url: "models/Category.json"
         } */ {
            method: "GET",
-           url: "http://localhost:8080/api/home/getProductCategories"
+           url: "http://ec2-13-233-15-64.ap-south-1.compute.amazonaws.com:8080/api/home/getProductCategories"
         });
     };
 
@@ -18,7 +18,7 @@ angular.module('myShopApp')
            url: "models/Deal.json"
         } */ {
            method: "GET",
-           url: "http://localhost:8080/api/home/getProductDeals"
+           url: "http://ec2-13-233-15-64.ap-south-1.compute.amazonaws.com:8080/api/home/getProductDeals"
         });
     };
 }]);
