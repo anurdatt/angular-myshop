@@ -3,7 +3,7 @@
 var SharedModule = angular.module('SharedModule', []);
 SharedModule.value('ShopName', "AD's Cake Shop")
 .factory('Page', ['ShopName', function(ShopName) {
-    let title = ShopName;
+    var title = ShopName;
     return {
         title: function getTitle() {
             return title;

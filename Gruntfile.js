@@ -284,17 +284,17 @@ module.exports = function (grunt) {
     //   }
     // },
     // uglify: {
-    //   dist: {
-    //     files: {
-    //       '<%= yeoman.dist %>/scripts/scripts.js': [
-    //         '<%= yeoman.dist %>/scripts/scripts.js'
-    //       ]
-    //     }
-    //   }
+      // dist: {
+        // files: {
+          // '<%= yeoman.dist %>/scripts/scripts.js': [
+            // '<%= yeoman.dist %>/scripts/scripts.js'
+          // ]
+        // }
+      // }
     // },
-    // concat: {
-    //   dist: {}
-    // },
+    concat: {
+      dist: {}
+    },
 
     imagemin: {
       dist: {
